@@ -1,6 +1,6 @@
 # Activitylifecycle
 
-Music Sedang Berjalan ...
+Music Sedang Berjalan ...<br>
 ![1](https://cloud.githubusercontent.com/assets/22134511/19410455/26163998-9317-11e6-8815-e0959b0bf3d3.png)
 
 
